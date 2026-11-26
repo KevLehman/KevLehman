@@ -1,4 +1,4 @@
-![Kevin Alemán, engineer in El Salvador. Selected builds: Memory Tinder for reviewing agent memories, and ReadStats for finding Apple Books highlights.](assets/workbench.svg)
+<img src="assets/workbench.svg" width="100%" alt="Workbench: Memory Tinder for reviewing agent memories, and ReadStats for exploring Apple Books highlights.">
 
 `01` [**Memory Tinder**](https://github.com/KevLehman/memory-tinder) · Review what Claude Code and Codex remember about a project. Swipe through the cards or stay in chat.
 
